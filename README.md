@@ -19,7 +19,7 @@ Interfacet ```IDictionary``` definierar bl.a. metoderna ```ContainsKey()``` och 
 	+ Finns ordet redan i mappen? (```ContainsKey```)
 		+ ...öka heltalet som är kopplat till ordet med 1. (använd operatorn []!)
 	+ ...annars...
-		+ ...lägg till det nya ordet och initiera heltalet till 1. (Add)
+		+ ...lägg till det nya ordet och initiera heltalet till 1. (```Add```)
 
 Komplettera metoden ```CountWords``` med den kod som krävs för att metoden ```Main``` ska fungera så att varje ord och hur många gånger det förekommer i texten skrivs ut i en tabell. 
 
