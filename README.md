@@ -43,6 +43,7 @@ Efter att ha gjort uppgiften ska du:
 
 Läs om:
 
+- I ”online”-dokumentationen om klasserna ```StreamReader``` och ```StreamWriter``` finns tips och mer exempel rörande filläsning.
 - ...
 
 TODO: Komplettera med läsanvisningar!
