@@ -27,8 +27,8 @@ När metoden _CountWords_ har implementerats korrekt ska en körning av programm
 
 ___Konsolfönster___
 
-![Den statiska klassen `WordFactory`](bilder/console.png)
+![Konsoll-utskrift](../bilder/console.png)
 Figur 2. 779 unika ska hittas.
 
-![Den statiska klassen `WordFactory`](bilder/FacitFrequencyTable.png)
+![Facit](../bilder/FacitFrequencyTable.png)
 Figur 3. Textfilen _Frekvenstabell.txt_ med alla unika ord och antalet gånger de förekommer.
