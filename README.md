@@ -54,6 +54,7 @@ Läs om:
 	+ Artikeln [Hur fungerar List<T>?](hur-fungerar-list.pdf "Samlingsklassen List")
 	+ https://msdn.microsoft.com/en-us/library/6sh2ey19%28v=vs.110%29.aspx
 + Klassen "SortedList"
+	+ https://msdn.microsoft.com/en-us/library/ms132319%28v=vs.110%29.aspx
 	+ https://msdn.microsoft.com/en-us/library/system.collections.sortedlist%28v=vs.110%29.aspx
 + Interface
 	+ Essential C# 6.0, 326-327.
