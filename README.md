@@ -43,9 +43,27 @@ Efter att ha gjort uppgiften ska du:
 
 Läs om:
 
-- I ”online”-dokumentationen om klasserna ```StreamReader``` och ```StreamWriter``` finns tips och mer exempel rörande filläsning.
-- ...
-
-TODO: Komplettera med läsanvisningar!
++ "for each"-loopen
+	+ Essential C# 6.0, 109, 140-142.
+	+ https://msdn.microsoft.com/en-us/library/ttw7t8t6%28v=vs.110%29.aspx
++ Samlingsklasser
+	+ Essential C# 6.0, 646 ff.
+	+ https://msdn.microsoft.com/en-us/library/7y3x785f%28v=vs.110%29.aspx
+	+ https://msdn.microsoft.com/en-us/library/system.collections%28v=vs.110%29.aspx
++ Klassen "List"
+	+ Artikeln [Hur fungerar List<T>?](hur-fungerar-list.pdf "Samlingsklassen List")
+	+ https://msdn.microsoft.com/en-us/library/6sh2ey19%28v=vs.110%29.aspx
++ Klassen "SortedList"
+	+ https://msdn.microsoft.com/en-us/library/system.collections.sortedlist%28v=vs.110%29.aspx
++ Interface
+	+ Essential C# 6.0, 326-327.
+	+ Artikeln [Vad är ett interface?](vad-ar-ett-interface.pdf "Interface")    
++ Klassen "IDictionary"
+	+ https://msdn.microsoft.com/en-us/library/system.collections.idictionary%28v=vs.110%29.aspx 
++ Filhantering
+  + Essential C# 6.0, 232-235.
+	+ ”Online”-dokumentationen om klasserna "StreamReader" och "StreamWriter" ger en hel del tips och mer exempel rörande filläsning:
+	+ StreamReader: https://msdn.microsoft.com/en-us/library/system.io.streamreader%28v=vs.110%29.aspx#Anchor_7
+	+ StreamWriter: https://msdn.microsoft.com/en-us/library/system.io.streamwriter%28v=vs.110%29.aspx#Anchor_7
 
 [Lösning](losning/README.md)
