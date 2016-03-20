@@ -43,6 +43,10 @@ Efter att ha gjort uppgiften ska du:
 
 Läs om:
 
++ Arrayer
+	- Essential C# 6.0, 71-87. (inte flerdimensionella arrayer).
+	- http://msdn.microsoft.com/en-us/library/system.array.aspx
+	- http://msdn.microsoft.com/en-us/library/hh127989%28v=vs.88%29.aspx#Anchor_2 (under rubriken Arrays)
 + "for each"-loopen
 	+ Essential C# 6.0, 109, 140-142.
 	+ https://msdn.microsoft.com/en-us/library/ttw7t8t6%28v=vs.110%29.aspx
